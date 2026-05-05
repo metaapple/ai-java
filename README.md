@@ -1,6 +1,6 @@
 
 <br>
-```markdown
+
 # AI Java MetaApple - Simple Calculator
 
 Java Swing을 사용해 만든 간단한 GUI 계산기 프로젝트입니다.  
