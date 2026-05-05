@@ -11,6 +11,7 @@ public class SimpleCalculator extends JFrame {
     private JTextField num2Field;
     private JLabel2 label;
 
+
     public SimpleCalculator() {
         setTitle("Colorful Calculator");
         setSize(450, 350);
